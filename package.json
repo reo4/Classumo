@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "include-media": "~1.4.9",
-    "jquery": "~2.2.4",
+    "jquery": "~3.5.0",
     "normalize.css": "~5.0.0",
     "jquery-validation": "^1.16.0",
     "slick-carousel": "^1.6.0"
